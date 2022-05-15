@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrius_voorobjovas
-- 👀 I’m interested in mechanics, technologies, IT, coding
-- 🌱 I’m currently learning html/css/java/c
+- 👀 I’m interested in mechanics, technologies, IT, coding, 3D printing, clay building technologies
+- 🌱 I’m currently learning html/css/java/c/robotics
 - 💞️ I’m looking to collaborate on arduino projects, learning html, databases
 - 📫 How to reach me mail me prekybapoveikiu@gmail.com
 
